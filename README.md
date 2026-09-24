@@ -1,0 +1,64 @@
+# KMT Create
+
+**A collection of Python scripts, lightweight games, and PowerShell scripts — with a special focus on assistive tools for visually impaired users.**
+
+**Python script များ၊ အပေါ့စား game များနှင့် PowerShell script များ စုစည်းမှု — အမြင်အာရုံမသန်စွမ်းသူများအတွက် အထောက်အကူပြု tools များကို အထူးအာရုံစိုက်ထားသည်။**
+
+---
+
+## 📖 About / အကြောင်း
+
+**English**
+KMT Create is an open-source project dedicated to sharing simple, useful, and accessible tools. It contains:
+- 🐍 Python scripts for everyday tasks
+- 🎮 Lightweight games for fun and learning
+- ⚡ PowerShell scripts for Windows automation
+
+A major goal of this project is to build **assistive tools for visually impaired users**, helping make technology more accessible to everyone.
+
+**မြန်မာ**
+KMT Create သည် ရိုးရှင်း၍ အသုံးဝင်သော tools များကို မျှဝေရန် ရည်ရွယ်ထားသော open-source project တစ်ခု ဖြစ်ပါသည်။ ၎င်းတွင် အောက်ပါတို့ ပါဝင်ပါသည် —
+- 🐍 နေ့စဉ်အသုံးပြုနိုင်သော Python script များ
+- 🎮 အပေါ့စား game များ
+- ⚡ Windows အတွက် PowerShell script များ
+
+ဤ project ၏ အဓိကရည်ရွယ်ချက်တစ်ခုမှာ **အမြင်အာရုံမသန်စွမ်းသူများအတွက် အထောက်အကူပြု tools များ** ဖန်တီးရန်ဖြစ်ပြီး၊ နည်းပညာကို လူတိုင်း အသုံးပြုနိုင်စေရန် ကူညီပေးရန် ဖြစ်ပါသည်။
+
+---
+
+## ✨ Features / ပါဝင်သော အချက်များ
+
+| Category / အမျိုးအစား | Description / ဖော်ပြချက် |
+|:---|:---|
+| 🐍 Python Scripts | Everyday automation and utility scripts / နေ့စဉ်သုံး automation နှင့် utility script များ |
+| 🎮 Lightweight Games | Simple games for fun and learning / ပျော်ရွှင်မှုနှင့် သင်ယူမှုအတွက် ရိုးရှင်းသော game များ |
+| ⚡ PowerShell Scripts | Windows automation and system tools / Windows automation နှင့် system tool များ |
+| ♿ Accessibility Tools | Assistive tools for visually impaired users / အမြင်အာရုံမသန်စွမ်းသူများအတွက် အထောက်အကူပြု tools များ |
+
+---
+
+## 🎯 Mission / ရည်မှန်းချက်
+
+**English**
+To create and share free, open-source tools that are simple to use and accessible to everyone — especially people with visual impairments.
+
+**မြန်မာ**
+အသုံးပြုရလွယ်ကူပြီး လူတိုင်း — အထူးသဖြင့် အမြင်အာရုံမသန်စွမ်းသူများ — အသုံးပြုနိုင်သော အခမဲ့ open-source tools များကို ဖန်တီးမျှဝေရန်။
+
+---
+
+## 🚀 Getting Started / စတင်အသုံးပြုခြင်း
+
+### Prerequisites / ကြိုတင်လိုအပ်ချက်များ
+- **Python 3.8+** (for Python scripts)
+- **PowerShell 5.1+** (for PowerShell scripts)
+- **Windows / Linux / macOS**
+
+### Installation / တပ်ဆင်ခြင်း
+
+```bash
+# Clone the repository
+git clone https://github.com/khinmaungthet001-cyber/kmt-create.git
+
+# Navigate into the folder
+cd kmt-create
